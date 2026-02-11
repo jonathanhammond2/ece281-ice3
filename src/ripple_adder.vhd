@@ -58,7 +58,7 @@ begin
         A     => A(2),
         B     => B(2),
         Cin   => w_carry(1),
-        S     => S(1),
+        S     => S(2),
         Cout  => w_carry(2)
     );
 
